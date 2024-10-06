@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:B2EBF4,100:5CD1E5&height=250&section=header&text=Welcome%20to%20Sumin's%20Github&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B2EBF4,100:5CD1E5&height=250&section=header&text=Welcome%20to%20ChoiTH's%20Github&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=2)
 
 <div align="center">안녕하세요!!!<br>
 주니어 자바 개발자 입니다!!!<br></div>  
@@ -39,4 +39,4 @@
 
 <h1>개인 프로젝트</h1>
 
->### [림버스 파티메이커](https://github.com/ChoiTHs/limbus)
+>### [림버스 파티메이커 - 일시 중단](https://github.com/ChoiTHs/limbus)
