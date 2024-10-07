@@ -30,6 +30,7 @@
 >### [2차](https://github.com/ChoiTHs/mechuli)
 
 >## 강의 자료
+>### [react](https://github.com/ChoiTHs/MSA-React)
 >### [Vue.js](https://github.com/ChoiTHs/vues)
 >### [Spring](https://github.com/ChoiTHs/msa_spring)
 >### [Java](https://github.com/ChoiTHs/MSA-6th/tree/main/Java)
