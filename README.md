@@ -28,6 +28,7 @@
 >## 프로젝트
 >### [1차](https://github.com/ChoiTHs/todotodo)
 >### [2차](https://github.com/ChoiTHs/mechuli)
+>### [최종 - 호텔 자바](https://github.com/ChoiTHs/HotelJava)
 
 >## 강의 자료
 >### [react](https://github.com/ChoiTHs/MSA-React)
@@ -37,7 +38,3 @@
 
 >## 인프런 강의 클론 코딩
 >### [Vue.js](https://github.com/ChoiTHs/vue-advanced)
-
-<h1>개인 프로젝트</h1>
-
->### [림버스 파티메이커 - 일시 중단](https://github.com/ChoiTHs/limbus)
