@@ -18,19 +18,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![ITELLIJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
+<h1>KOSA MSA 기반 풀스택 개발자 양성과정 6차</h1>
 
-<h1>MSA 6차 교육 내용</h1>
-
->## 프로젝트
->### [1차](https://github.com/ChoiTHs/todotodo)
->### [2차](https://github.com/ChoiTHs/mechuli)
+>##  MSA 6차 프로젝트
+>### [1차 - To Do List](https://github.com/ChoiTHs/todotodo)
+>### [2차 - 메추리](https://github.com/ChoiTHs/mechuli)
 >### [최종 - 호텔 자바](https://github.com/ChoiTHs/HotelJava)
 
->## 강의 자료
+>## MSA 6차강의 자료
 >### [React](https://github.com/ChoiTHs/MSA-React)
 >### [Vue.js](https://github.com/ChoiTHs/vues)
 >### [Spring](https://github.com/ChoiTHs/msa_spring)
 >### [Java](https://github.com/ChoiTHs/MSA-6th/tree/main/Java)
 
->## 인프런 강의 클론 코딩
+## 인프런 강의 클론 코딩
 >### [Vue.js](https://github.com/ChoiTHs/vue-advanced)
