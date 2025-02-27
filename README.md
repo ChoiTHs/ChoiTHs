@@ -33,3 +33,6 @@
 
 ## 인프런 강의 클론 코딩
 >### [Vue.js](https://github.com/ChoiTHs/vue-advanced)
+
+## Rust 프로젝트
+>### [러스트 프로젝트](https://github.com/ChoiTHs/rust_tuto)
